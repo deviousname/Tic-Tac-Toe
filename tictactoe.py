@@ -184,30 +184,3 @@ def main():
     congrat_winner(the_winner, computer, human)
 
 main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
